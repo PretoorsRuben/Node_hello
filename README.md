@@ -49,10 +49,10 @@ Great for testing simple deployments to the cloud
 
 `sudo vi /etc/nginx/nginx.conf`
 
-`Replace _ with localhost_IP
-server name _;`
+`Replace _ with localhost_IP`
+`server name _;`
 
-`Change location to CHange location to
+`Change location; to
     proxy_pass http://localhost:3000;
     proxy_http_version 1.1;
     proxy_set_header Upgrade $http_upgrade;
