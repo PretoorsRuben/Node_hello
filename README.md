@@ -1,8 +1,8 @@
 # Node Hello World running on a EC2 Centos instance
 
-Simple node.js app that servers "hello world"
+Simple node.js app "hello world"
 
-Great for testing simple deployments to the cloud
+For testing deployments to the cloud
 
 ## Installing nodejs on EC2 instance
 
