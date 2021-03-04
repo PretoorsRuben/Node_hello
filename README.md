@@ -1,2 +1,9 @@
-# Node_hello
-Node.js application using NGINX as a frontend proxy
+# Node Hello World
+
+Simple node.js app that servers "hello world"
+
+Great for testing simple deployments to the cloud
+
+## Run It
+
+`npm start`
