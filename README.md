@@ -68,4 +68,4 @@ server name _;`
  
  
  
- # Node_hello application will be accesible through your local EC2 Public IPv4 or EC Public IPv4 DNS
+ # Node_hello application will be accesible through your EC2 Public IPv4 or EC Public IPv4 DNS
